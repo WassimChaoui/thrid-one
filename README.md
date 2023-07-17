@@ -1,2 +1,2 @@
-# thrid-one
-the third template
+# template-three
+this is my third template
